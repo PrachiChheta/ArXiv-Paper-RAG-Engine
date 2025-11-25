@@ -31,3 +31,7 @@ A fully local, API‑integrated, production‑grade RAG system with:
 * **Frontend:** Query and visualization via Streamlit or Gradio
 * **FastAPI Backend:** Async API server for integration and module extensions
 * **Dev Best Practices:** uv, ruff, pre-commit, pydantic, pytest, logging, and more
+
+  <img width="696" height="780" alt="Research Paper Processing Flowchart - visual selection" src="https://github.com/user-attachments/assets/88442a70-3a5c-4b5c-a0f5-4dc547c66b00" />
+
+
