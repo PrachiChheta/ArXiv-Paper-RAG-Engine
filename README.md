@@ -33,7 +33,7 @@ A fully local, API‑integrated, production‑grade RAG system with:
 
 ---
 
-
+# **System Architecture (Side‑by‑Side)**
 
 <table>
   <tr>
