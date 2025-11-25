@@ -32,7 +32,7 @@ A fully local, API‑integrated, production‑grade RAG system with:
 * **FastAPI Backend:** Async API server for integration and module extensions
 * **Dev Best Practices:** uv, ruff, pre-commit, pydantic, pytest, logging, and more
 
-<img width="696" height="735" alt="Research Paper Processing Flowchart - visual selection" src="https://github.com/user-attachments/assets/81c2b2f7-b07c-40d4-9443-13f6a89c78ae" />
+<img width="936" height="369" alt="Research Paper Processing Flowchart - visual selection" src="https://github.com/user-attachments/assets/81c2b2f7-b07c-40d4-9443-13f6a89c78ae" />
 
 <img width="936" height="369" alt="Retrieval Augmented Generation (RAG) Flowchart - visual selection" src="https://github.com/user-attachments/assets/c2d4f1bc-0ca7-45be-b691-476609e2f2ec" />
 
