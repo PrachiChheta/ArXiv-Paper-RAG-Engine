@@ -33,14 +33,13 @@ A fully local, API‑integrated, production‑grade RAG system with:
 
 ---
 
-# **System Architecture (Side‑by‑Side)**
 <table>
 <tr>
 <td align="center" width="50%">
 <img src="https://github.com/user-attachments/assets/259d5808-3639-4d52-a197-92f0f43d0afe" width="100%">
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/c2d4f1bc-0ca7-45be-b691-476609e2f2ec" width="100%">
+<img src="https://github.com/user-attachments/assets/c2d4f1bc-0ca7-45be-b691-476609e2f2ec" width="150%">
 </td>
 </tr>
 </table>
